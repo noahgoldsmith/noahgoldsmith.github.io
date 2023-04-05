@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- TemplateBeginEditable name="doctitle" -->
+    <title>Bootstrap eCommerce Page Template</title>
+    <!-- TemplateEndEditable -->
+    <!-- Bootstrap -->
+    <link href="css/bootstrap-4.4.1.css" rel="stylesheet">
+<link href="Favorite Brands.html.css" rel="stylesheet" type="text/css">
+<link href="Favorite styles.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+  <body>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+      <h2><a class="navbar-brand" href="#">Favorite City Tour&nbsp;</a> </h2>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active"> <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a> </li>
+          <li class="nav-item"> <a class="nav-link" href="#">Catalog&nbsp;</a> </li>
+          <li class="nav-item dropdown"> <a class="nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Athletics</a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown"> <a class="dropdown-item" href="#">Action</a> <a class="dropdown-item" href="#">Another action</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Something else here</a> </div>
+          </li>
+          <li class="nav-item"> <a class="nav-link disabled" href="#">New Products&nbsp;</a> </li>
+        </ul>
+        <form class="form-inline my-2 my-lg-0">
+          <input class="form-control" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+      </div>
+    </div>
+  </nav>
+  <header class="row">
+    <div class="col-lg-12">
+      <h2>Website&nbsp; &nbsp; &nbsp;</h2>
+      <p>&nbsp; &nbsp; A Website Will Always Be A Website&nbsp; &nbsp;</p>
+    </div>
+  </header>
+  <!-- TemplateBeginEditable name="maincontent" -->
+  <div class="wrapper">
+    <div class="container mt-3">
+      <div class="row">
+        <div class="col-12">
+          <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+              <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+              <div class="row">
+                <div class="col-lg-4">Content goes here</div>
+                <div class="col-lg-4">Content goes here</div>
+                <div class="col-lg-4"></div>
+              </div>
+              <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+              <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>It                </h5>
+                </div>
+                <img src="file:///Mac HD/Users/ngoldsm/Documents/Unnamed Site 2/bishop nono.jpeg" width="381" height="400" alt=""/></div>
+              <div class="carousel-item"> <img class="d-block w-100" src="images/1920x500.gif" alt="Second slide">
+                <div class="carousel-caption d-none d-md-block">
+                  <header class =row>Item 2 Heading</header>
+                  <p>Item 2 Description</p>
+                </div>
+              </div>
+              <div class="carousel-item"> <img class="d-block w-100" src="images/1920x500.gif" alt="Third slide">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Item 3 Heading</h5>
+                  <p>Item 3 Description</p>
+                </div>
+              </div>
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev"> <span class="carousel-control-prev-icon" aria-hidden="true"></span> <span class="sr-only">Previous</span></a> <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next"> <span class="carousel-control-next-icon" aria-hidden="true"></span> <span class="sr-only">Next</span></a></div>
+        </div>
+      </div>
+      <hr>
+    </div>
+    <div class="row">
+      <div class="col-lg-12"></div>
+    </div>
+    <div class="container">
+      <div class="row"></div>
+    </div>
+    <hr>
+    <h2 class="text-center">My Favorite Things&nbsp;</h2>
+    <hr>
+    <div class="container">
+      <div class="row text-center mt-4">
+        <div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+            <div>
+              <p paraid="282751386" paraeid="{3504d694-86e2-486b-885e-57b7db2a38e2}{219}"><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="normaltextrun" data-ccp-charstyle-defn="{'ObjectId':'52031482-50cf-43b6-8523-115a2221dc01|60','ClassId':1073872969,'Properties':[469775450,'normaltextrun',201340122,'1',134233614,'true',469778129,'normaltextrun',335572020,'1',469778324,'Default Paragraph Font']}">&ldquo;Bye Felisha&rdquo;</span></span><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="eop" data-ccp-charstyle-defn="{'ObjectId':'52031482-50cf-43b6-8523-115a2221dc01|61','ClassId':1073872969,'Properties':[469775450,'eop',201340122,'1',134233614,'true',469778129,'eop',335572020,'1',469778324,'Default Paragraph Font']}"> </span></span><span data-ccp-props="{'134233117':false,'134233118':false,'201341983':0,'335559738':0,'335559739':0,'335559740':240}"> </span></p>
+            </div>
+            <div>
+              <p paraid="658819126" paraeid="{3504d694-86e2-486b-885e-57b7db2a38e2}{227}"><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="normaltextrun">Friday(</span><span data-ccp-charstyle="normaltextrun">Movie)</span></span><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="eop"> </span></span><span data-ccp-props="{'134233117':false,'134233118':false,'201341983':0,'335551550':3,'335551620':3,'335559738':0,'335559739':0,'335559740':240}"> </span></p>
+            </div>
+            <div>
+              <p paraid="348223997" paraeid="{3504d694-86e2-486b-885e-57b7db2a38e2}{237}"><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="normaltextrun">&ldquo;The hardest thing to do is take that first step to overcome your fears and self-doubt, especially when you&rsquo;re surrounded by doubting </span><span data-ccp-charstyle="normaltextrun">Thomases</span><span data-ccp-charstyle="normaltextrun"> who constantly reinforce those fears, based on their personal beliefs.&rdquo;</span></span><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="eop"> </span></span><span data-ccp-props="{'134233117':false,'134233118':false,'201341983':0,'335559738':0,'335559739':0,'335559740':240}"> </span></p>
+            </div>
+            <div>
+              <p paraid="1567729022" paraeid="{3504d694-86e2-486b-885e-57b7db2a38e2}{249}"><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="normaltextrun">Doing Business </span><span data-ccp-charstyle="normaltextrun">By</span><span data-ccp-charstyle="normaltextrun"> Good Book, David Stuart (Book)</span></span><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="eop"> </span></span><span data-ccp-props="{'134233117':false,'134233118':false,'201341983':0,'335551550':3,'335551620':3,'335559738':0,'335559739':0,'335559740':240}"> </span></p>
+            </div>
+            <div class="list-group"></div>
+          </div>
+        </div>
+        <div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+            <table border="1" data-tablestyle="MsoTableGrid" data-tablelook="1184" aria-rowcount="5">
+              <tbody>
+                <tr role="row" aria-rowindex="1">
+                  <td role="rowheader" data-celllook="4369"><div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div>
+                      <div>
+                        <p paraid="1318361332" paraeid="{e9ea6429-a108-40b0-a04a-b5f56f86f739}{151}"><span data-contrast="auto" xml:lang="EN-US" lang="EN-US">Top 3 Quarterbacks 23&rsquo;-24&rsquo; season in order</span><span data-ccp-props="{'201341983':0,'335559740':259}"> </span></p>
+                      </div>
+                    </div></td>
+                  <td role="columnheader" data-celllook="4369"><div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div>
+                      <div>
+                        <p paraid="901560796" paraeid="{e9ea6429-a108-40b0-a04a-b5f56f86f739}{158}"><span data-contrast="auto" xml:lang="EN-US" lang="EN-US">Team</span><span data-ccp-props="{'201341983':0,'335559740':259}"> </span></p>
+                      </div>
+                    </div></td>
+                  <td role="columnheader" data-celllook="4369"><div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div>
+                      <div>
+                        <p paraid="607318530" paraeid="{e9ea6429-a108-40b0-a04a-b5f56f86f739}{165}"><span data-contrast="auto" xml:lang="EN-US" lang="EN-US">Impact</span><span data-ccp-props="{'201341983':0,'335559740':259}"> </span></p>
+                      </div>
+                    </div></td>
+                </tr>
+                <tr role="row" aria-rowindex="2">
+                  <td role="rowheader" data-celllook="4369"><div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div>
+                      <div>
+                        <p paraid="1982807875" paraeid="{e9ea6429-a108-40b0-a04a-b5f56f86f739}{173}"><span data-contrast="auto" xml:lang="EN-US" lang="EN-US">Lamar Jackson</span><span data-ccp-props="{'201341983':0,'335559740':259}"> </span></p>
+                      </div>
+                    </div></td>
+                  <td data-celllook="4097"><div></div>
+                    <div></div>
+                    <div>
+                      <div>
+                        <p paraid="228257087" paraeid="{e9ea6429-a108-40b0-a04a-b5f56f86f739}{180}"><span data-contrast="auto" xml:lang="EN-US" lang="EN-US">Ravens</span><span data-ccp-props="{'201341983':0,'335559740':259}"> </span></p>
+                      </div>
+                    </div></td>
+                  <td data-celllook="1"><div></div>
+                    <div></div>
+                    <div>
+                      <div>
+                        <p paraid="193740740" paraeid="{e9ea6429-a108-40b0-a04a-b5f56f86f739}{187}"><span data-contrast="auto" xml:lang="EN-US" lang="EN-US">Lamar Jackson&rsquo;s dynamic offensive style combined with the incentives of his new contract will dominate the NFL.</span><span data-ccp-props="{'201341983':0,'335559740':259}"> </span></p>
+                      </div>
+                    </div></td>
+                </tr>
+                <tr role="row" aria-rowindex="3">
+                  <td role="rowheader" data-celllook="4369"><div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div>
+                      <div>
+                        <p paraid="1382981733" paraeid="{e9ea6429-a108-40b0-a04a-b5f56f86f739}{195}"><span data-contrast="auto" xml:lang="EN-US" lang="EN-US">Joshua Allen</span><span data-ccp-props="{'201341983':0,'335559740':259}"> </span></p>
+                      </div>
+                    </div></td>
+                  <td data-celllook="4096"><div></div>
+                    <div></div>
+                    <div>
+                      <div>
+                        <p paraid="2030836967" paraeid="{e9ea6429-a108-40b0-a04a-b5f56f86f739}{202}"><span data-contrast="auto" xml:lang="EN-US" lang="EN-US">Bills</span><span data-ccp-props="{'201341983':0,'335559740':259}"> </span></p>
+                      </div>
+                    </div></td>
+                  <td data-celllook="0"><div></div>
+                    <div></div>
+                    <div>
+                      <div>
+                        <p paraid="1623047790" paraeid="{e9ea6429-a108-40b0-a04a-b5f56f86f739}{209}"><span data-contrast="auto" xml:lang="EN-US" lang="EN-US">Joshua Allen has played carried the bills to the playoff the past three years and will continue to play high caliber football.</span><span data-ccp-props="{'201341983':0,'335559740':259}"> </span></p>
+                      </div>
+                    </div></td>
+                </tr>
+                <tr role="row" aria-rowindex="4">
+                  <td role="rowheader" data-celllook="4369"><div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div>
+                      <div>
+                        <p paraid="508328741" paraeid="{e9ea6429-a108-40b0-a04a-b5f56f86f739}{217}"><span data-contrast="auto" xml:lang="EN-US" lang="EN-US">Joe Burrow</span><span data-ccp-props="{'201341983':0,'335559740':259}"> </span></p>
+                      </div>
+                    </div></td>
+                  <td data-celllook="4096"><div></div>
+                    <div></div>
+                    <div>
+                      <div>
+                        <p paraid="1998385270" paraeid="{e9ea6429-a108-40b0-a04a-b5f56f86f739}{224}"><span data-contrast="auto" xml:lang="EN-US" lang="EN-US">Bengals</span><span data-ccp-props="{'201341983':0,'335559740':259}"> </span></p>
+                      </div>
+                    </div></td>
+                  <td data-celllook="0"><div></div>
+                    <div></div>
+                    <div>
+                      <div>
+                        <p paraid="742514086" paraeid="{e9ea6429-a108-40b0-a04a-b5f56f86f739}{231}"><span data-contrast="auto" xml:lang="EN-US" lang="EN-US">Joe Burrow with a Super Bowl appearance in his first two years, has proven to be an elite </span><span data-ccp-props="{'201341983':0,'335559740':259}"> </span></p>
+                      </div>
+                      <div>
+                        <p paraid="1977674154" paraeid="{e9ea6429-a108-40b0-a04a-b5f56f86f739}{237}"><span data-contrast="auto" xml:lang="EN-US" lang="EN-US">Quarterback.</span><span data-ccp-props="{'201341983':0,'335559740':259}"> </span></p>
+                      </div>
+                    </div></td>
+                </tr>
+                <tr role="row" aria-rowindex="5">
+                  <td role="rowheader" data-celllook="4369"><div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div>
+                      <div>
+                        <p paraid="518566720" paraeid="{e9ea6429-a108-40b0-a04a-b5f56f86f739}{245}"><span data-contrast="auto" xml:lang="EN-US" lang="EN-US">Patrick Mahomes</span><span data-ccp-props="{'201341983':0,'335559740':259}"> </span></p>
+                      </div>
+                    </div></td>
+                  <td data-celllook="4096"><div></div>
+                    <div></div>
+                    <div>
+                      <div>
+                        <p paraid="1613852191" paraeid="{e9ea6429-a108-40b0-a04a-b5f56f86f739}{254}"><span data-contrast="auto" xml:lang="EN-US" lang="EN-US">Cheifs</span><span data-ccp-props="{'201341983':0,'335559740':259}"> </span></p>
+                      </div>
+                    </div></td>
+                  <td data-celllook="0"><div></div>
+                    <div></div>
+                    <div>
+                      <div>
+                        <p paraid="1666878778" paraeid="{1a1cc06f-e553-4bc4-8678-5418597d8e41}{6}"><span data-contrast="auto" xml:lang="EN-US" lang="EN-US">The youngest quarterback to win 3 super bowl titles at 27 years old.</span><span data-ccp-props="{'201341983':0,'335559740':259}"> </span></p>
+                      </div>
+                    </div></td>
+                </tr>
+              </tbody>
+            </table>
+            <div class="card-body"></div>
+          </div>
+        </div>
+        <div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+            <div>
+              <p paraid="1810280616" paraeid="{e9ea6429-a108-40b0-a04a-b5f56f86f739}{6}"><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="eop" data-ccp-charstyle-defn="{'ObjectId':'52031482-50cf-43b6-8523-115a2221dc01|61','ClassId':1073872969,'Properties':[469775450,'eop',201340122,'1',134233614,'true',469778129,'eop',335572020,'1',469778324,'Default Paragraph Font']}"> </span></span></p>
+            </div>
+            <div>
+              <div>
+                <p paraid="202640826" paraeid="{e9ea6429-a108-40b0-a04a-b5f56f86f739}{12}"><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="normaltextrun" data-ccp-charstyle-defn="{'ObjectId':'52031482-50cf-43b6-8523-115a2221dc01|60','ClassId':1073872969,'Properties':[469775450,'normaltextrun',201340122,'1',134233614,'true',469778129,'normaltextrun',335572020,'1',469778324,'Default Paragraph Font']}">My Top 5 Musical Artist</span></span><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="eop"> </span></span><span data-ccp-props="{'134233117':false,'134233118':false,'201341983':0,'335559738':0,'335559739':0,'335559740':240}"> </span></p>
+              </div>
+              <div>
+                <ol role="list" start="1">
+                  <li data-leveltext="%1." data-font="Calibri" data-listid="1" data-list-defn-props="{'335552541':0,'335559684':-1,'335559685':720,'335559991':360,'469769242':[65533,0],'469777803':'left','469777804':'%1.','469777815':'multilevel'}" aria-setsize="-1" data-aria-posinset="1" data-aria-level="1" role="listitem">
+                    <p paraid="2019513148" paraeid="{e9ea6429-a108-40b0-a04a-b5f56f86f739}{20}"><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="normaltextrun">Michael Jackson</span></span><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="eop"> </span></span><span data-ccp-props="{'134233117':false,'134233118':false,'201341983':0,'335559685':1080,'335559731':0,'335559738':0,'335559739':0,'335559740':240}"> </span></p>
+                  </li>
+                </ol>
+              </div>
+              <div>
+                <ol role="list" start="2">
+                  <li data-leveltext="%1." data-font="Calibri" data-listid="2" data-list-defn-props="{'335551671':2,'335552541':0,'335559684':-1,'335559685':720,'335559991':360,'469769242':[65533,0],'469777803':'left','469777804':'%1.','469777815':'multilevel'}" aria-setsize="-1" data-aria-posinset="2" data-aria-level="1" role="listitem">
+                    <p paraid="2080976285" paraeid="{e9ea6429-a108-40b0-a04a-b5f56f86f739}{29}"><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="normaltextrun">2 </span><span data-ccp-charstyle="normaltextrun">pac</span></span><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="eop"> </span></span><span data-ccp-props="{'134233117':false,'134233118':false,'201341983':0,'335559685':1080,'335559731':0,'335559738':0,'335559739':0,'335559740':240}"> </span></p>
+                  </li>
+                </ol>
+              </div>
+              <div>
+                <ol role="list" start="3">
+                  <li data-leveltext="%1." data-font="Calibri" data-listid="3" data-list-defn-props="{'335551671':3,'335552541':0,'335559684':-1,'335559685':720,'335559991':360,'469769242':[65533,0],'469777803':'left','469777804':'%1.','469777815':'multilevel'}" aria-setsize="-1" data-aria-posinset="3" data-aria-level="1" role="listitem">
+                    <p paraid="120050676" paraeid="{e9ea6429-a108-40b0-a04a-b5f56f86f739}{40}"><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="normaltextrun">Biggie</span></span><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="eop"> </span></span><span data-ccp-props="{'134233117':false,'134233118':false,'201341983':0,'335559685':1080,'335559731':0,'335559738':0,'335559739':0,'335559740':240}"> </span></p>
+                  </li>
+                </ol>
+              </div>
+              <div>
+                <ol role="list" start="4">
+                  <li data-leveltext="%1." data-font="Calibri" data-listid="4" data-list-defn-props="{'335551671':4,'335552541':0,'335559684':-1,'335559685':720,'335559991':360,'469769242':[65533,0],'469777803':'left','469777804':'%1.','469777815':'multilevel'}" aria-setsize="-1" data-aria-posinset="4" data-aria-level="1" role="listitem">
+                    <p paraid="502983454" paraeid="{e9ea6429-a108-40b0-a04a-b5f56f86f739}{49}"><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="normaltextrun">Larry June</span></span><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="eop"> </span></span><span data-ccp-props="{'134233117':false,'134233118':false,'201341983':0,'335559685':1080,'335559731':0,'335559738':0,'335559739':0,'335559740':240}"> </span></p>
+                  </li>
+                </ol>
+              </div>
+            </div>
+            <div>
+              <div>
+                <ol role="list" start="5">
+                  <li data-leveltext="%1." data-font="Calibri" data-listid="5" data-list-defn-props="{'335551671':5,'335552541':0,'335559684':-1,'335559685':720,'335559991':360,'469769242':[65533,0],'469777803':'left','469777804':'%1.','469777815':'multilevel'}" aria-setsize="-1" data-aria-posinset="5" data-aria-level="1" role="listitem">
+                    <p paraid="1041936274" paraeid="{e9ea6429-a108-40b0-a04a-b5f56f86f739}{58}"><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="normaltextrun">SZA</span></span><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="eop"> </span></span><span data-ccp-props="{'134233117':false,'134233118':false,'201341983':0,'335559685':1080,'335559731':0,'335559738':0,'335559739':0,'335559740':240}"> </span></p>
+                  </li>
+                </ol>
+              </div>
+              <div>
+                <p paraid="550391150" paraeid="{e9ea6429-a108-40b0-a04a-b5f56f86f739}{67}"><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="eop"> </span></span><span data-ccp-props="{'134233117':false,'134233118':false,'201341983':0,'335559738':0,'335559739':0,'335559740':240}"> </span></p>
+              </div>
+              <div>
+                <p paraid="628966192" paraeid="{e9ea6429-a108-40b0-a04a-b5f56f86f739}{73}"><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="normaltextrun">Honorable Mentions</span></span><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="eop"> </span></span><span data-ccp-props="{'134233117':false,'134233118':false,'201341983':0,'335559738':0,'335559739':0,'335559740':240}"> </span></p>
+              </div>
+              <div>
+                <ul role="list">
+                  <li data-leveltext="" data-font="Symbol" data-listid="6" data-list-defn-props="{'335552541':1,'335559684':-2,'335559685':720,'335559991':360,'469769226':'Symbol','469769242':[8226],'469777803':'left','469777804':'','469777815':'multilevel'}" aria-setsize="-1" data-aria-posinset="1" data-aria-level="1" role="listitem">
+                    <p paraid="1367823408" paraeid="{e9ea6429-a108-40b0-a04a-b5f56f86f739}{81}"><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="normaltextrun">Anita Baker</span></span><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="eop"> </span></span><span data-ccp-props="{'134233117':false,'134233118':false,'201341983':0,'335559685':1080,'335559731':0,'335559738':0,'335559739':0,'335559740':240}"> </span></p>
+                  </li>
+                  <li data-leveltext="" data-font="Symbol" data-listid="6" data-list-defn-props="{'335552541':1,'335559684':-2,'335559685':720,'335559991':360,'469769226':'Symbol','469769242':[8226],'469777803':'left','469777804':'','469777815':'multilevel'}" aria-setsize="-1" data-aria-posinset="2" data-aria-level="1" role="listitem">
+                    <p paraid="1337305031" paraeid="{e9ea6429-a108-40b0-a04a-b5f56f86f739}{90}"><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="normaltextrun">Sade</span></span><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="eop"> </span></span><span data-ccp-props="{'134233117':false,'134233118':false,'201341983':0,'335559685':1080,'335559731':0,'335559738':0,'335559739':0,'335559740':240}"> </span></p>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div>
+              <div>
+                <ul role="list">
+                  <li data-leveltext="" data-font="Symbol" data-listid="6" data-list-defn-props="{'335552541':1,'335559684':-2,'335559685':720,'335559991':360,'469769226':'Symbol','469769242':[8226],'469777803':'left','469777804':'','469777815':'multilevel'}" aria-setsize="-1" data-aria-posinset="1" data-aria-level="1" role="listitem">
+                    <p paraid="116547118" paraeid="{e9ea6429-a108-40b0-a04a-b5f56f86f739}{99}"><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="normaltextrun">Jhene Aiko</span></span><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="eop"> </span></span><span data-ccp-props="{'134233117':false,'134233118':false,'201341983':0,'335559685':1080,'335559731':0,'335559738':0,'335559739':0,'335559740':240}"> </span></p>
+                  </li>
+                  <li data-leveltext="" data-font="Symbol" data-listid="6" data-list-defn-props="{'335552541':1,'335559684':-2,'335559685':720,'335559991':360,'469769226':'Symbol','469769242':[8226],'469777803':'left','469777804':'','469777815':'multilevel'}" aria-setsize="-1" data-aria-posinset="2" data-aria-level="1" role="listitem">
+                    <p paraid="454277343" paraeid="{e9ea6429-a108-40b0-a04a-b5f56f86f739}{108}"><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="normaltextrun">Summer Walker</span></span><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="eop"> </span></span><span data-ccp-props="{'134233117':false,'134233118':false,'201341983':0,'335559685':1080,'335559731':0,'335559738':0,'335559739':0,'335559740':240}"> </span></p>
+                  </li>
+                  <li data-leveltext="" data-font="Symbol" data-listid="6" data-list-defn-props="{'335552541':1,'335559684':-2,'335559685':720,'335559991':360,'469769226':'Symbol','469769242':[8226],'469777803':'left','469777804':'','469777815':'multilevel'}" aria-setsize="-1" data-aria-posinset="3" data-aria-level="1" role="listitem">
+                    <p paraid="1588064842" paraeid="{e9ea6429-a108-40b0-a04a-b5f56f86f739}{117}"><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="normaltextrun">Jay Z</span></span><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="eop"> </span></span><span data-ccp-props="{'134233117':false,'134233118':false,'201341983':0,'335559685':1080,'335559731':0,'335559738':0,'335559739':0,'335559740':240}"> </span></p>
+                  </li>
+                  <li data-leveltext="" data-font="Symbol" data-listid="6" data-list-defn-props="{'335552541':1,'335559684':-2,'335559685':720,'335559991':360,'469769226':'Symbol','469769242':[8226],'469777803':'left','469777804':'','469777815':'multilevel'}" aria-setsize="-1" data-aria-posinset="4" data-aria-level="1" role="listitem">
+                    <p paraid="1812394578" paraeid="{e9ea6429-a108-40b0-a04a-b5f56f86f739}{126}"><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="normaltextrun">Rick Ross</span></span><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="eop"> </span></span><span data-ccp-props="{'134233117':false,'134233118':false,'201341983':0,'335559685':1080,'335559731':0,'335559738':0,'335559739':0,'335559740':240}"> </span></p>
+                  </li>
+                  <li data-leveltext="" data-font="Symbol" data-listid="6" data-list-defn-props="{'335552541':1,'335559684':-2,'335559685':720,'335559991':360,'469769226':'Symbol','469769242':[8226],'469777803':'left','469777804':'','469777815':'multilevel'}" aria-setsize="-1" data-aria-posinset="5" data-aria-level="1" role="listitem">
+                    <p paraid="1636512804" paraeid="{e9ea6429-a108-40b0-a04a-b5f56f86f739}{135}"><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="normaltextrun">G Herbo</span></span><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="eop"> </span></span><span data-ccp-props="{'134233117':false,'134233118':false,'201341983':0,'335559685':1080,'335559731':0,'335559738':0,'335559739':0,'335559740':240}"> </span></p>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div>
+              <div>
+                <ul role="list">
+                  <li data-leveltext="" data-font="Symbol" data-listid="6" data-list-defn-props="{'335552541':1,'335559684':-2,'335559685':720,'335559991':360,'469769226':'Symbol','469769242':[8226],'469777803':'left','469777804':'','469777815':'multilevel'}" aria-setsize="-1" data-aria-posinset="1" data-aria-level="1" role="listitem">
+                    <p paraid="878454979" paraeid="{e9ea6429-a108-40b0-a04a-b5f56f86f739}{144}"><span data-contrast="none" xml:lang="EN-US" lang="EN-US"><span data-ccp-charstyle="normaltextrun">Nipsey Hussle</span></span><span data-ccp-props="{'134233117':false,'134233118':false,'201341983':0,'335559685':1080,'335559731':0,'335559738':0,'335559739':0,'335559740':240}"> </span></p>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="card-body"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-4">
+          <div>          </div>
+          <p>&nbsp;</p>
+          <ul class="list-unstyled">
+            <li class="media">  </li>
+          </ul>
+        </div>
+        <div class="col-lg-4">
+          <ul class="list-unstyled">
+            <li class="media">
+              <div class="media-body">              </div>
+            </li>
+            <li class="media"> </li>
+          </ul>
+          <div>
+            <div></div>
+          </div>
+          <div>
+            <div> </div>
+          </div>
+          <div></div>
+          <div>          </div>
+          <p>&nbsp;</p>
+        </div>
+        <div class="col-lg-4">
+          <ul class="list-unstyled">
+            <li class="media">            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <hr>
+  </div>
+  <!-- TemplateEndEditable -->
+<div class="container text-white bg-dark p-4">
+  <div class="row">
+        <div class="col-6 col-md-8 col-lg-12">
+          <div class="row text-center">
+            <div class="col-sm-6 col-md-4 col-lg-4 col-12">
+              <ul class="list-unstyled">
+                <li class="btn-link"> <a>Link anchor</a> </li>
+              </ul>
+            </div>
+            <div class="col-sm-6 col-md-4 col-lg-4 col-12">
+              <ul class="list-unstyled">
+                <li class="btn-link"> <a>Link anchor</a> </li>
+              </ul>
+            </div>
+            <div class="col-sm-6 col-md-4 col-lg-4 col-12 row">
+              <ul class="list-unstyled">
+                <li class="btn-link"> <a>Link anchor</a> </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 col-lg-5 col-6 row">
+          <address class="col-lg-6">
+          <strong>@nonogeezy</strong>
+          </address>
+          <address class="col-lg-6">
+          <strong>@Blessup.gear</strong>
+          </address>
+          <address class="col-lg-6">
+          <strong>blessupgear.com</strong>
+          </address>
+        </div>
+  </div>
+  </div>
+    <footer class="text-center">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <p>Copyright © MyWebsite. All rights reserved.</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="js/jquery-3.4.1.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap-4.4.1.js"></script>
+  </body>
+</html>

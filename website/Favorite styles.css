@@ -1,0 +1,44 @@
+@charset "UTF-8";
+#navbarSupportedContent .form-inline.my-2.my-lg-0 .btn.btn-outline-success.my-2.my-sm-0 {
+	background-color: #E717E7;
+}
+.bg-dark {
+	background-color: #E631DF!Important;
+}
+.row .col-lg-12 p {
+}
+navbar-dark.navbar-nav.nav-link {
+	background-color: #CC44DF;
+}
+.navbar-nav .nav-item {
+	margin-left: 4.px;
+	margin-right: 4px;
+	margin-left: 4px;
+	text-align: center;
+	background-color: #9D2BD2;
+	background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(229,158,255,1.00) 27.91%,rgba(186,0,255,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(229,158,255,1.00) 27.91%,rgba(186,0,255,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(229,158,255,1.00) 27.91%,rgba(186,0,255,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(229,158,255,1.00) 27.91%,rgba(186,0,255,1.00) 100%);
+}
+header h2 {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	text-align: center;
+	color: #F406ED;
+	margin-top: 1em;
+}
+header p {
+	text-align: center;
+	color: #A58CA4;
+	text-decoration: underline;
+	margin-top: 0px;
+}
+header {
+	background-image: url(../../Documents/labrell%20james.jpeg);
+}
+nav .container {
+}
+body {
+}
+footer {
+}
