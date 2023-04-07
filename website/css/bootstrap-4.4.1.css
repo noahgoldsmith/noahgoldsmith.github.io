@@ -155,24 +155,24 @@ sup {
 }
 
 a {
-  color: #007bff;
-  text-decoration: none;
-  background-color: transparent;
+	color: #5F656C;
+	text-decoration: none;
+	background-color: transparent;
 }
 
 a:hover {
-  color: #0056b3;
-  text-decoration: underline;
+	color: #E9E61E;
+	text-decoration: underline;
 }
 
 a:not([href]) {
-  color: inherit;
-  text-decoration: none;
+	color: #9EDE2D;
+	text-decoration: none;
 }
 
 a:not([href]):hover {
-  color: inherit;
-  text-decoration: none;
+	color: #CDE90F;
+	text-decoration: none;
 }
 
 pre,
@@ -4240,12 +4240,14 @@ input[type="button"].btn-block {
 }
 
 .nav-link {
-  display: block;
-  padding: 0.5rem 1rem;
+	display: block;
+	padding-top: 2.6em;
+	padding-right: 1rem;
+	padding-left: 1rem;
+	padding-bottom: 0.5rem;
 }
 
 .nav-link:hover, .nav-link:focus {
-  text-decoration: none;
 }
 
 .nav-link.disabled {
@@ -4373,8 +4375,9 @@ input[type="button"].btn-block {
 }
 
 .navbar-nav .nav-link {
-  padding-right: 0;
-  padding-left: 0;
+	padding-right: 0;
+	padding-left: 0;
+	padding-top: 2.6em;
 }
 
 .navbar-nav .dropdown-menu {
@@ -4527,8 +4530,9 @@ input[type="button"].btn-block {
     position: absolute;
   }
   .navbar-expand-lg .navbar-nav .nav-link {
-    padding-right: 0.5rem;
-    padding-left: 0.5rem;
+	padding-right: 0.5rem;
+	padding-left: 0.5rem;
+	padding-top: 2.6em;
   }
   .navbar-expand-lg > .container,
   .navbar-expand-lg > .container-fluid, .navbar-expand-lg > .container-sm, .navbar-expand-lg > .container-md, .navbar-expand-lg > .container-lg, .navbar-expand-lg > .container-xl {
@@ -4697,18 +4701,18 @@ input[type="button"].btn-block {
 }
 
 .navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link:focus {
-  color: rgba(255, 255, 255, 0.75);
+	color: rgba(21,211,21,0.75);
 }
 
 .navbar-dark .navbar-nav .nav-link.disabled {
-  color: rgba(255, 255, 255, 0.25);
+	color: rgba(206,246,14,0.25);
 }
 
 .navbar-dark .navbar-nav .show > .nav-link,
 .navbar-dark .navbar-nav .active > .nav-link,
 .navbar-dark .navbar-nav .nav-link.show,
 .navbar-dark .navbar-nav .nav-link.active {
-  color: #fff;
+	color: #D7E80D;
 }
 
 .navbar-dark .navbar-toggler {
@@ -10237,4 +10241,8 @@ a.text-dark:hover, a.text-dark:focus {
 }
 /*# sourceMappingURL=bootstrap.css.map */
 .list {
+}
+.nav-linl {
+}
+.nav.link {
 }
