@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- TemplateBeginEditable name="doctitle" -->
+    <title>Bootstrap eCommerce Page Template</title>
+    <!-- TemplateEndEditable -->
+    <!-- Bootstrap -->
+    <link href="file:///Untitled/mc327/website/css/bootstrap-4.4.1.css" rel="stylesheet">
+<link href="file:///Untitled/mc327/website/Favorite Brands.html.css" rel="stylesheet" type="text/css">
+<link href="file:///Untitled/mc327/website/Favorite styles.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+  <body>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+      <h2><a class="navbar-brand" href="#">NOAH GOLDSMITH&nbsp;</a> </h2>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active"> <a href="../Favorite Brands.dwt" data_temp_dwid="0">Home </a></li>
+          <li class="nav-item"> <a>
+          <link>
+Brand&nbsp;</a></li>
+          <li class="nav-item dropdown"> <a>Event&nbsp;&nbsp;</a>
+<div class="dropdown-menu" aria-labelledby="navbarDropdown"> <a class="dropdown-item" href="#">Action</a> <a class="dropdown-item" href="#">Another action</a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="#">Something else here</a> </div>
+          </li>
+          <li class="nav-item"> <a>Research&nbsp;</a></li>
+        </ul>
+        <form class="form-inline my-2 my-lg-0">
+          <input class="form-control" type="search" placeholder="Search" aria-label="Search">
+</form>
+      </div>
+    </div>
+  </nav>
+  <header class="row">
+    <div class="col-lg-12">
+      <h2>Noah Goldsmith&nbsp; &nbsp; &nbsp;</h2>
+      <p>&nbsp; &nbsp; "BLESSUP"&nbsp; &nbsp; &nbsp; &nbsp;</p>
+    </div>
+  </header>
+  <!-- TemplateBeginEditable name="maincontent" -->
+  <div class="wrapper">
+    <div class="container mt-3">
+      <div class="row">
+        <div class="col-12"> </div>
+      </div>
+</div>
+    <div class="row">
+      <div class="col-lg-12"></div>
+    </div>
+    <div class="container">
+      <div class="row"></div>
+    </div>
+    <hr>
+    <p>Hi everyone,</p>
+    <p>My name is Noah Goldsmith, I am a Mass Comm Major/Business Minor.</p>
+    <p>In this class I hope to learn some tools that will help me with my brand.</p>
+    <p>I&rsquo;m from Edwardsville Illinois. I graduated during COVID from Edwardsville High School in 2020 and decided to continue my athletic and academic career at Millikin University.</p>
+    <p>I never visited the school before, but it felt like the right thing to do so I went on faith.</p>
+    <p>I&rsquo;m a church boy without a doubt and never had that much freedom before so I decided to act a fool.</p>
+    <p>After an epiphany I decided it was time to come back home after the first year.</p>
+    <p>I hung up the cleats, cleaned up my act and I am doing much better.</p>
+    <p>Now, I work as a bank teller while pursuing my degree. In my spare time, I play several instruments, do theatrical production, produce, and release music, host events, and build my brand &ldquo;Blessup Gear.&rdquo;</p>
+    <p>I created Blessup Gear in 2017 as a sophomore in high school by selling clothes out my bookbag, to out my trunk, to eventually a store. Blessup Gear has provided me an outlet to share my gifts with the world. If you guys are interested follow the Instagram below! #BLESSUP    </p>
+    <hr>
+    <div class="container">
+      <div class="row"></div>
+    </div>
+    <hr>
+  </div>
+  <!-- TemplateEndEditable -->
+<div class="container text-white bg-dark p-4">
+  <div class="row">
+        <div class="col-6 col-md-8 col-lg-12">
+          <div class="row text-center">
+            <div class="col-sm-6 col-md-4 col-lg-4 col-12">
+              <ul class="list-unstyled">
+                <li class="btn-link"> <img src="file:///Untitled/MW-HQ319_lebron_ZG_20190828142017.jpg" alt="" width="249" height="229">
+                  <div>&nbsp;</div>
+                <a>Philanthropy&nbsp;</a> </li>
+              </ul>
+            </div>
+            <div class="col-sm-6 col-md-4 col-lg-4 col-12">
+              <ul class="list-unstyled">
+                <li class="btn-link"> <img src="file:///Untitled/yeaimsavedbutcho.jpeg" alt="" width="263" height="227">
+                  <div>&nbsp;</div>
+                <a>Portfolio&nbsp;</a> </li>
+              </ul>
+            </div>
+            <div class="col-sm-6 col-md-4 col-lg-4 col-12 row">
+              <ul class="list-unstyled">
+                <li class="btn-link"> <img src="file:///Untitled/yeaimsavedbutchobootylookingood .jpeg" alt="" width="288" height="225">
+                  <div>&nbsp;</div>
+                <a>Music&nbsp;</a> </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 col-lg-5 col-6 row">
+          <address class="col-lg-6">
+          <strong>@nonogeezy</strong>
+          </address>
+          <address class="col-lg-6">
+          <strong>&nbsp;</strong>
+          </address>
+          <address class="col-lg-6">
+          <strong>blessupgear.com</strong>
+          </address>
+          <address class="col-lg-6">
+          &nbsp;
+          </address>
+        </div>
+  </div>
+  </div>
+    <footer class="text-center">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <p>Copyright © MyWebsite. All rights reserved.</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="file:///Untitled/mc327/website/js/jquery-3.4.1.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="file:///Untitled/mc327/website/js/popper.min.js"></script>
+    <script src="file:///Untitled/mc327/website/js/bootstrap-4.4.1.js"></script>
+  </body>
+</html>
