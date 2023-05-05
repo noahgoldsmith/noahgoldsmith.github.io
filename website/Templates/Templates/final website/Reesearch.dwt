@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- TemplateBeginEditable name="doctitle" -->
+    <title>Bootstrap eCommerce Page Template</title>
+    <!-- TemplateEndEditable -->
+    <!-- Bootstrap -->
+    <link href="file:///Untitled/mc327/website/css/bootstrap-4.4.1.css" rel="stylesheet">
+<link href="file:///Untitled/mc327/website/Favorite Brands.html.css" rel="stylesheet" type="text/css">
+<link href="file:///Untitled/mc327/website/Favorite styles.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+  <body>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+      <h2><a class="navbar-brand" href="#">NOAH GOLDSMITH&nbsp;</a> </h2>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active"> <a href="../Favorite Brands.dwt" data_temp_dwid="0">Home </a></li>
+          <li class="nav-item"> <a>
+          <link>
+Brand&nbsp;</a></li>
+          <li class="nav-item dropdown"> <a>Event&nbsp;&nbsp;</a>
+<div class="dropdown-menu" aria-labelledby="navbarDropdown"> <a class="dropdown-item" href="#">Action</a> <a class="dropdown-item" href="#">Another action</a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="#">Something else here</a> </div>
+          </li>
+          <li class="nav-item"> <a>Research&nbsp;</a></li>
+        </ul>
+        <form class="form-inline my-2 my-lg-0">
+          <input class="form-control" type="search" placeholder="Search" aria-label="Search">
+</form>
+      </div>
+    </div>
+  </nav>
+  <header class="row">
+    <div class="col-lg-12">
+      <h2>Noah Goldsmith&nbsp; &nbsp; &nbsp;</h2>
+      <p>&nbsp; &nbsp; "BLESSUP"&nbsp; &nbsp; &nbsp; &nbsp;</p>
+    </div>
+  </header>
+  <!-- TemplateBeginEditable name="maincontent" -->
+  <div class="wrapper">
+    <div class="container mt-3">
+      <div class="row">
+        <div class="col-12"> </div>
+      </div>
+</div>
+    <div class="row">
+      <div class="col-lg-12"></div>
+    </div>
+    <div class="container">
+      <div class="row"></div>
+    </div>
+    <hr>
+<p>Celebrities and Fashion Trends.&nbsp;<img src="../lebron%20james%20nike.jpg" alt="" width="238" height="198"></p>
+    <p>Celebrities have always played a large role in fashion trends. Fashion trends can be fleeting and ultimately problematic for clothing brands if not handled with strategic planning and investment. So, how important is the amount of influence celebrities have to the fashion industry?&nbsp;</p>
+    <p>A celebrity is a famous person. In the past, celebrities were way less accessible than they are today. It is likely today someone could DM a famous person and probably get a response. Before, you had to write to famous people or pray to see them on vacation. Apparel brands take note of people who have a large following base and will represent their brand well. With social media, the internet, and multiple streaming services, brands have access to multiple influencers across multiple platforms.</p>
+    <p>&nbsp;Some brands have a specific market they cater to, for example the North Face serves the outdoor athlete, John Deer serves the farmer, and Nike serves the athlete. With more famous people that serve niche audiences, more brands can reach a larger following with different influencers in their market.&nbsp;</p>
+    <p>According to fillgapnews, here are the 5 most popular celebrities in 2023:</p>
+    <p>&nbsp; 1. Elon Musk&nbsp;</p>
+    <p> 2. Rihanna&nbsp;</p>
+    <p> 3. Miley Cyrus&nbsp;</p>
+    <p> 4. Kylie Jenner&nbsp;</p>
+    <p> 5. Cristiano Ronaldo&nbsp;</p>
+    <p>These celebrities are famous for completely different reasons, outlandish behavior with billions of dollars, music, social media, and sports. But these are people with large fan bases who try to emulate what they do and adopt some of their traits, including their fashion choices.&nbsp;</p>
+    <p>The True Power of Celebrity Influence on fashion trends:&nbsp;</p>
+    <p>Do celebrities set the trends or do brands set the trends and use the celebrity’s platform?<img src="../golf.jpg" alt="" width="327" height="218"></p>
+    <p>&nbsp;There are large scale celebrities who are well known around the world and then there are small scale celebrities who are better known in their neighborhoods. This person of influence can be an older relative, a younger relative, a colleague, an ex you want to impress because you know she made a fake Instagram page to stalk you, the girl who just moved in, or local high school hometown hero. Typically, smaller scale celebrities were not given items for free in order to promote the brand. They bought the product. Apparel brands receive recognition both before and after the purchase.&nbsp;</p>
+    <p>Ultimately, Brands set the trends. Brands can reach out further than celebrities and advertisements. Brands go far because people see other people using them, advertisement, and word of mouth. Although celebrities do have a big influence over styles, more celebrities are starting to create their own apparel brands rather than relying on other brands to reach out to them.&nbsp;</p>
+    <p>Celebrities still do maintain some level of influence. However, brands would fall into a vicious cycle of keeping up with certain celebrity fashion trends rather than serving the need of the customer.</p>
+    <p>&nbsp;There is a very small market for brands who do serve trends. Typically, these brands are media brands and serve current information (e.g., Twitter, Instagram, News). In fashion, department stores and online markets serve as the bridge that houses trendy clothing.&nbsp;</p>
+    <p>How Do Clothing Brands Approach Trends Moving Forward?</p>
+    <p>&nbsp;Behind a brand it is possible to create a lifestyle that people can associate with a product. When wearing certain brands in public, you create an image that represents your social status and some things you stand for. This is why the demand for some brands that are expensive stays relatively high.&nbsp;</p>
+    <p>Ultimately, clothing brands should stick to serving the needs of the customer. Actively engage with customers via surveys, polls, and emails. Therefore, following Kylie Jenner on Instagram to figure out what product to launch next is not the answer. A celebrity that does not own a brand technically has power over what brands will be purchased. They can only wear what is available.&nbsp;</p>
+    <p>Clothing brands will be successful in the future with promotions by creating a desire for a product through an emotional appeal through advertisement. Using celebrities to do so can only help.&nbsp;</p>
+    <p>While there are many things that set humans apart from each other we have a lot of things in common. Humans need representation. When we see other people who look like us or believe in what we believe in, we want to be like them. Marketing tactics by companies in the past have used minority public figures to reach a target audience. Companies can choose where they want specific ads to be used with regional marketing campaigns.</p>
+    <p>&nbsp;People make trends. People keep trends alive that died out decades ago. People need to express themselves through clothing.&nbsp;</p>
+    <p>Although there are many things that make humans unique, we share a lot of common interests. Today there are multiple clothing brands that coincide with certain genres of music, different sports, different beliefs, different activities, and other things people are interested in. Clothing brands should continue to serve their niche market of customers regardless of fashion trends. I </p>
+<p>&nbsp;</p>
+<hr>
+    <div class="container">
+      <div class="row"></div>
+    </div>
+    <hr>
+  </div>
+  <!-- TemplateEndEditable -->
+<div class="container text-white bg-dark p-4">
+  <div class="row">
+        <div class="col-6 col-md-8 col-lg-12">
+          <div class="row text-center">
+            <div class="col-sm-6 col-md-4 col-lg-4 col-12">
+              <ul class="list-unstyled">
+                <li class="btn-link"> <img src="file:///Untitled/MW-HQ319_lebron_ZG_20190828142017.jpg" alt="" width="249" height="229">
+                  <div>&nbsp;</div>
+                <a>Philanthropy&nbsp;</a> </li>
+              </ul>
+            </div>
+            <div class="col-sm-6 col-md-4 col-lg-4 col-12">
+              <ul class="list-unstyled">
+                <li class="btn-link"> <img src="file:///Untitled/yeaimsavedbutcho.jpeg" alt="" width="263" height="227">
+                  <div>&nbsp;</div>
+                <a>Portfolio&nbsp;</a> </li>
+              </ul>
+            </div>
+            <div class="col-sm-6 col-md-4 col-lg-4 col-12 row">
+              <ul class="list-unstyled">
+                <li class="btn-link"> <img src="file:///Untitled/yeaimsavedbutchobootylookingood .jpeg" alt="" width="288" height="225">
+                  <div>&nbsp;</div>
+                <a>Music&nbsp;</a> </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 col-lg-5 col-6 row">
+          <address class="col-lg-6">
+          <strong>@nonogeezy</strong>
+          </address>
+          <address class="col-lg-6">
+          <strong>&nbsp;</strong>
+          </address>
+          <address class="col-lg-6">
+          <strong>blessupgear.com</strong>
+          </address>
+          <address class="col-lg-6">
+          &nbsp;
+          </address>
+        </div>
+  </div>
+  </div>
+    <footer class="text-center">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <p>Copyright © MyWebsite. All rights reserved.</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="file:///Untitled/mc327/website/js/jquery-3.4.1.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="file:///Untitled/mc327/website/js/popper.min.js"></script>
+    <script src="file:///Untitled/mc327/website/js/bootstrap-4.4.1.js"></script>
+  </body>
+</html>

@@ -8,27 +8,27 @@
     <title>Bootstrap eCommerce Page Template</title>
     <!-- TemplateEndEditable -->
     <!-- Bootstrap -->
-    <link href="../css/bootstrap-4.4.1.css" rel="stylesheet">
-<link href="../Favorite Brands.html.css" rel="stylesheet" type="text/css">
-<link href="../Favorite styles.css" rel="stylesheet" type="text/css">
+    <link href="mc327/website/css/bootstrap-4.4.1.css" rel="stylesheet">
+<link href="mc327/website/Favorite Brands.html.css" rel="stylesheet" type="text/css">
+<link href="mc327/website/Favorite styles.css" rel="stylesheet" type="text/css">
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
 </head>
   <body>
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container">
-      <h2><a class="navbar-brand" href="#">@nonogeezy&nbsp;</a> </h2>
+      <h2><a class="navbar-brand" href="#">NOAH GOLDSMITH&nbsp;</a> </h2>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
-          <li class="nav-item active"> <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a> </li>
-          <li class="nav-item"> <a class="nav-link" href="#">Brand&nbsp;</a> </li>
-          <li class="nav-item dropdown"> <a class="nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Porfolio&nbsp;</a>
+          <li class="nav-item active"> <a href="mc327/website/Templates/Favorite Brands.dwt" data_temp_dwid="0">Home </a></li>
+          <li class="nav-item"> <a>Brand&nbsp;</a></li>
+          <li class="nav-item dropdown"> <a class="nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Event&nbsp;&nbsp;</a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown"> <a class="dropdown-item" href="#">Action</a> <a class="dropdown-item" href="#">Another action</a>
               <div class="dropdown-divider"></div>
               <a class="dropdown-item" href="#">Something else here</a> </div>
           </li>
-          <li class="nav-item"> <a class="nav-link disabled" href="#">About Me&nbsp;</a> </li>
+          <li class="nav-item"> <a class="nav-link disabled" href="#">Research&nbsp;</a> </li>
         </ul>
         <form class="form-inline my-2 my-lg-0">
           <input class="form-control" type="search" placeholder="Search" aria-label="Search">
@@ -39,30 +39,38 @@
   <header class="row">
     <div class="col-lg-12">
       <h2>Noah Goldsmith&nbsp; &nbsp; &nbsp;</h2>
-      <p>&nbsp;"I know it's hard, but did you even really try" - Kali Uchis&nbsp; &nbsp; &nbsp;&nbsp;</p>
+      <p>&nbsp; &nbsp; "BLESSUP"&nbsp; &nbsp; &nbsp; &nbsp;</p>
     </div>
   </header>
   <!-- TemplateBeginEditable name="maincontent" -->
   <div class="wrapper">
     <div class="container mt-3">
       <div class="row">
-        <p>Hi everyone,</p>
-        <p>My name is Noah Goldsmith, I am a Mass Comm Major/Business Minor.</p>
-        <p>In this class I hope to learn some tools that will help me with my brand.</p>
-        <p>I&rsquo;m from Edwardsville Illinois. I graduated during COVID from Edwardsville High School in 2020 and decided to continue my athletic and academic career at Millikin University.</p>
-        <p>I never visited the school before, but it felt like the right thing to do so I went on faith.</p>
-        <p>I&rsquo;m a church boy without a doubt and never had that much freedom before so I decided to act a fool.</p>
-        <p>After an epiphany I decided it was time to come back home after the first year.</p>
-        <p>I hung up the cleats, cleaned up my act and I am doing much better.</p>
-        <p>Now, I work as a bank teller while pursuing my degree. In my spare time, I play several instruments, do theatrical production, produce, and release music, host events, and build my brand &ldquo;Blessup Gear.&rdquo;</p>
-        <p>I created Blessup Gear in 2017 as a sophomore in high school by selling clothes out my bookbag, to out my trunk, to eventually a store. Blessup Gear has provided me an outlet to share my gifts with the world. If you guys are interested follow the Instagram below! #BLESSUP</p>
+        <div class="col-12"> </div>
       </div>
-      <hr>
+</div>
+    <div class="row">
+      <div class="col-lg-12"></div>
     </div>
-    <div class="row"></div>
     <div class="container">
       <div class="row"></div>
     </div>
+    <hr>
+    <p>Hi everyone,</p>
+    <p>My name is Noah Goldsmith, I am a Mass Comm Major/Business Minor.</p>
+    <p>In this class I hope to learn some tools that will help me with my brand.</p>
+    <p>I&rsquo;m from Edwardsville Illinois. I graduated during COVID from Edwardsville High School in 2020 and decided to continue my athletic and academic career at Millikin University.</p>
+    <p>I never visited the school before, but it felt like the right thing to do so I went on faith.</p>
+    <p>I&rsquo;m a church boy without a doubt and never had that much freedom before so I decided to act a fool.</p>
+    <p>After an epiphany I decided it was time to come back home after the first year.</p>
+    <p>I hung up the cleats, cleaned up my act and I am doing much better.</p>
+    <p>Now, I work as a bank teller while pursuing my degree. In my spare time, I play several instruments, do theatrical production, produce, and release music, host events, and build my brand &ldquo;Blessup Gear.&rdquo;</p>
+    <p>I created Blessup Gear in 2017 as a sophomore in high school by selling clothes out my bookbag, to out my trunk, to eventually a store. Blessup Gear has provided me an outlet to share my gifts with the world. If you guys are interested follow the Instagram below! #BLESSUP    </p>
+    <hr>
+    <div class="container">
+      <div class="row"></div>
+    </div>
+    <hr>
   </div>
   <!-- TemplateEndEditable -->
 <div class="container text-white bg-dark p-4">
@@ -71,23 +79,23 @@
           <div class="row text-center">
             <div class="col-sm-6 col-md-4 col-lg-4 col-12">
               <ul class="list-unstyled">
-                <li class="btn-link"> <img src="yeaimsavedbutcho.jpeg" alt="" width="" height="">
+                <li class="btn-link"> <img src="MW-HQ319_lebron_ZG_20190828142017.jpg" alt="" width="249" height="229">
                   <div>&nbsp;</div>
-                <a>Music&nbsp;</a> </li>
+                <a>Philanthropy&nbsp;</a> </li>
               </ul>
             </div>
             <div class="col-sm-6 col-md-4 col-lg-4 col-12">
               <ul class="list-unstyled">
-                <li class="btn-link"> <img src="yeaimsavedbutchobootylookingood%20.jpeg" alt="" width="225" height="225">
+                <li class="btn-link"> <img src="yeaimsavedbutcho.jpeg" alt="" width="263" height="227">
                   <div>&nbsp;</div>
-                <a>Blessup Gear&nbsp; &nbsp;</a> </li>
+                <a>Portfolio&nbsp;</a> </li>
               </ul>
             </div>
             <div class="col-sm-6 col-md-4 col-lg-4 col-12 row">
               <ul class="list-unstyled">
-                <li class="btn-link"> <img src="bronald.jpg" alt="" width="237" height="219">
+                <li class="btn-link"> <img src="yeaimsavedbutchobootylookingood%20.jpeg" alt="" width="288" height="225">
                   <div>&nbsp;</div>
-                <a>Link anchor</a> </li>
+                <a>Music&nbsp;</a> </li>
               </ul>
             </div>
           </div>
@@ -97,18 +105,13 @@
           <strong>@nonogeezy</strong>
           </address>
           <address class="col-lg-6">
-          <strong><br>
-          </strong>
-          </address>
-          <address class="col-lg-6">
-          <strong>@Blessup.gear</strong>
-          </address>
-          <address class="col-lg-6">
-          <strong><br>
-          </strong>
+          <strong>&nbsp;</strong>
           </address>
           <address class="col-lg-6">
           <strong>blessupgear.com</strong>
+          </address>
+          <address class="col-lg-6">
+          &nbsp;
           </address>
         </div>
   </div>
@@ -123,9 +126,9 @@
       </div>
     </footer>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="../js/jquery-3.4.1.min.js"></script>
+    <script src="mc327/website/js/jquery-3.4.1.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="../js/popper.min.js"></script>
-    <script src="../js/bootstrap-4.4.1.js"></script>
+    <script src="mc327/website/js/popper.min.js"></script>
+    <script src="mc327/website/js/bootstrap-4.4.1.js"></script>
   </body>
 </html>
